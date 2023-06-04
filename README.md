@@ -39,6 +39,8 @@ Hello everybody.<br/>
 ![](https://img.shields.io/badge/Flutter-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ReactNative-ReactNative-informational?style=flat&logo=ReactNative&logoColor=white&color=2bbc8a)
 
+<img src="https://camo.githubusercontent.com/8518504a205f83c6d26f677ce0dd8230e6fdbd19a8b9d113bd6589687bd55d7d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313239323637372f73637265656e73686f74732f363133393136372f6d656469612f35333837646337653033356233656665396439343531363034346465363661342e676966" alt="Kimura" />
+
 <p align="justify">I believe I would be an excellent fit for this position since I am a software engineer with a wide variety of experience in the field.</p>
 
 <p align="justify">I tend to view myself as a generalist since I try not to focus on any given technology. 
@@ -52,7 +54,7 @@ I have been exposed to a wide variety of technologies in my career and consider 
 
 <p align="justify">Because of my breadth of experience, I believe that I would make an excellent addition to your team.
 
-Sincerely,</p>
+Best Regards.</p>
 
 ## My Skills
 
@@ -80,20 +82,7 @@ Sincerely,</p>
 </p>
 
 
-# 💫 About Me:
-Hi, I'm Sankar Nayar 😉 **Developer** and **Programmer** .
-I'm an detail-oriented frontend developer, and I like to develop in JavaScript.
-I am passionate about **React**, **Angular**, **Vue**, **TailWnd CSS**, **Node.js** and **Micro Frontend**.
-Currently, I'm looking to collaborate on open-source projects.
-Besides programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
 
-<img src="https://camo.githubusercontent.com/8518504a205f83c6d26f677ce0dd8230e6fdbd19a8b9d113bd6589687bd55d7d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313239323637372f73637265656e73686f74732f363133393136372f6d656469612f35333837646337653033356233656665396439343531363034346465363661342e676966" alt="snayar" />
-
-**Skills (+5 years) :** React, Vue, Angular, Next, Nuxt, Redux, Vuex, JavaScript, CSS / SCSS, Bootstrap, TailWnd CSS, Node.js, Single-SPA, jQuery, Phaser, Cocos2dx,
-</br>
-**In Addition (2 years) :** PHP, Python, c#, c++, Java Spring
-</br>
-**Tools :** Git, Github, JetBrains IDE
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=snayar&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -104,7 +93,3 @@ Besides programming, I like delicious food 🥗🥩🌮🍣 and doing sports �
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ![Snake animation](https://github.com/kimitawanjohi/kimitawanjohi/raw/output/github-contribution-grid-snake.svg)
-
- 
----
-[![](https://visitcount.itsvg.in/api?id=snayar&icon=2&color=0)](https://visitcount.itsvg.in)
