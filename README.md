@@ -1,6 +1,8 @@
 
 
-<h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=topskilldev&style=flat-square"></h2>
+<h2>💫 About Me:<img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=topskilldev&style=flat-square"></h2>
+Hello everybody.<br/>
+<h4>I am Kimura Danaka（木村　田中） from Hiroshima（広島）in Japan（日本）。</h4><br/>
 
 ![](https://img.shields.io/badge/Javascript-javascript-yellow?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 <br>
