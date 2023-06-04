@@ -2,7 +2,9 @@
 
 <h2>💫 About Me:<img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=topskilldev&style=flat-square"></h2>
 Hello everybody.<br/>
-<h4>I am Kimura Danaka（木村　田中） from Hiroshima（広島）in Japan（日本）。</h4><br/>
+<p align="center">
+<img src="Header.svg" />
+</p>
 
 ![](https://img.shields.io/badge/Javascript-javascript-yellow?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 <br>
@@ -77,19 +79,9 @@ Best Regards.</p>
 <code><a href="https://flutter.dev"><img alt="Flutter" title="Flutter" src="https://github.com/neymarjohn/logos/blob/master/flutter.png" height="42"></a></code>
 
 
-<p align="center">
-<img src="Header.svg" />
-</p>
 
 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=snayar&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=snayar&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=snayar&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ![Snake animation](https://github.com/kimitawanjohi/kimitawanjohi/raw/output/github-contribution-grid-snake.svg)
